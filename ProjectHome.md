@@ -1,0 +1,1 @@
+This forensic tool can be used to analyze the Windows Media Player Data File. I designed this tool to extract information contained within the Windows Media Player data file.
